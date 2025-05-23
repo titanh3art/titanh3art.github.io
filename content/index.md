@@ -1,14 +1,10 @@
 ---
 title: Welcome To My Digital Garden
 draft: false
-date: 2025-05-24
+updated: 2025-05-24
 tags:
 ---
 
-Hello visitor!
-
-I am Malem and this site is the front view of my digital garden where I grow my knowledge of subjects that interests me. And that is quite a lot of subjects!
-
-Make yourself at home. I would be glad if you take away some worthwhile knowledge, a few useful tips, or a little strange facts from my humble garden!
+Welcome! I’m Malem, and this little corner of the web is my digital garden—where I cultivate knowledge and curiosities across a wide variety of subjects. Make yourself at home, and I hope you’ll take away something valuable—a fresh insight, a handy tip, or even a delightful oddity—from my humble garden.
 
 \- Malem
